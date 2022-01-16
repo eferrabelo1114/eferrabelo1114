@@ -13,9 +13,10 @@
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174876.png" />][twitter]
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174883.png" />][youtube]
 
+<br />
 
 ## **Experience**
-- :green_square::green_square::green_square::green_square::green_square:
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn-icons-png.flaticon.com/512/919/919841.png" />]
 
 
 
