@@ -1,4 +1,2 @@
 ### Hello, I'm Ethan, but sometimes I go by Skoobi
-## You can find me in a lot of places, but I am for sure going to be on
-
-[![Website](🎥Youtube Channel)](https://www.youtube.com/channel/UCPYYBtmz_DE67b87hUeG9Wg)
+## I'm a wannabe game developer/software engineer/whatever I gotta do to code cool things
