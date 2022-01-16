@@ -8,7 +8,7 @@
 
 
 ## Check out some of my other social platforms aswell
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn-icons-png.flaticon.com/512/1077/1077042.png" />][instagram]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />][instagram]
 
 
 
