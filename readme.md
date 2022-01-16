@@ -1,4 +1,4 @@
-### **Hello, I'm Ethan, but sometimes I go by Skoobi**
+# **Hello, I'm Ethan, but sometimes I go by Skoobi**
 
 ## **I'm a wannabe game developer/software engineer/film maker**
 - 🎥You can view some of my youtube videos here[youtube]!
@@ -15,7 +15,7 @@
 
 
 ## **Experience**
-
+- :green_square::green_square::green_square::green_square::green_square:
 
 
 
