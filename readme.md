@@ -9,8 +9,9 @@
 
 ## Check out some of my other social platforms aswell
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />][instagram]
-
-
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174876.png" />][twitter]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174876.png" />][youtube]
 
 
 
@@ -22,3 +23,5 @@
 [starfruit]: https://www.roblox.com/groups/10577228/StarFruit-Interactive#!/about
 [roblox]: https://www.roblox.com/home
 [instagram]: https://www.instagram.com/ethanferrabelo/
+[linkedin]: https://www.linkedin.com/in/ethanferrabelo/
+[twitter]: https://twitter.com/SkoobiDoobiDooo
