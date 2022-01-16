@@ -1,7 +1,7 @@
 # **Hello, I'm Ethan, but sometimes I go by Skoobi**
 
 ## **I'm a wannabe game developer/software engineer/film maker**
-- 🎥You can view some of my youtube videos here[youtube]!
+- 🎥You can view some of my youtube videos [here][youtube]!
 - 📝Currently studying Computer Science at Springfield Technical Community College
 - 💻Designer and Programmer for [Starfruit Interactive][starfruit]! on [Roblox][roblox]!
 - 🎹Passionate about music, I am also on a path learning skills in music production
@@ -16,10 +16,9 @@
 <br />
 
 ## **Experience**
-<img align="left" alt="codeSTACKr.com" width="42px" src="https://cdn-icons-png.flaticon.com/512/919/919841.png" /> 
+<img align="left" alt="codeSTACKr.com" width="42px" src="https://cdn-icons-png.flaticon.com/512/274/274416.png" /> 
 <br />
-<br />
-**C++** 
+
 
 
 
