@@ -16,7 +16,7 @@
 <br />
 
 ## **Experience**
-<img align="left" alt="codeSTACKr.com" width="42px" src="https://cdn-icons-png.flaticon.com/512/1199/1199106.png" /> 
+<img align="left" alt="codeSTACKr.com" width="62px" src="https://cdn-icons-png.flaticon.com/512/1199/1199106.png" /> 
 <br />
 
 
