@@ -16,8 +16,8 @@
 <br />
 
 ## **Experience**
-<img align="left" alt="codeSTACKr.com" width="42px" src="https://cdn-icons-png.flaticon.com/512/919/919841.png" />
-
+<img align="left" alt="codeSTACKr.com" width="42px" src="https://cdn-icons-png.flaticon.com/512/919/919841.png" /> 
+**C++** 
 
 
 
