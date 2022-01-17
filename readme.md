@@ -15,6 +15,9 @@
 
 <br />
 
+## Current Projects
+Almost all my commits will be towards private development projects done by Starfruit Interactive. One huge goal of mine for 2022 is to begin releasing public repositories that consist of smaller projects done by just me in my freetime.
+
 
 
 [youtube]: https://www.youtube.com/channel/UCPYYBtmz_DE67b87hUeG9Wg
