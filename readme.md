@@ -3,7 +3,7 @@
 ## **I'm a wannabe game developer/software engineer/film maker**
 - 🎥You can view some of my youtube videos [here][youtube]!
 - 📝Currently studying Computer Science at Springfield Technical Community College
-- 💻Designer and Programmer for [Starfruit Interactive][starfruit]! on [Roblox][roblox]!
+- 💻Designer and Programmer for [Starfruit Interactive][starfruit] and [Starfruit Tycoons][starfruit2]! on [Roblox][roblox]!
 - 🎹Passionate about music, I am also on a path learning skills in music production
 
 
@@ -22,6 +22,7 @@ Almost all my commits will be towards private development projects done by Starf
 
 [youtube]: https://www.youtube.com/channel/UCPYYBtmz_DE67b87hUeG9Wg
 [starfruit]: https://www.roblox.com/groups/10577228/StarFruit-Interactive#!/about
+[starfruit2]: https://www.roblox.com/groups/11468154/StarFruit-Tycoons#!/about
 [roblox]: https://www.roblox.com/home
 [instagram]: https://www.instagram.com/ethanferrabelo/
 [linkedin]: https://www.linkedin.com/in/ethanferrabelo/
