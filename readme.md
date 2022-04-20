@@ -1,7 +1,6 @@
 # **Hello, I'm Ethan, but sometimes I go by Skoobi**
 
 ## **I'm a wannabe game developer/software engineer**
-- 🎥You can view some of my youtube videos [here][youtube]!
 - 📝Currently studying Computer Science at Springfield Technical Community College
 - 💻Designer and Programmer for [Starfruit Interactive][starfruit] and [Starfruit Tycoons][starfruit2]! on [Roblox][roblox]!
 
